@@ -11,6 +11,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 
+All input at 0, gives a 0 output, G being the only output that is 0. A-F is 1.
+
 ## How to test
 
 Explain how to use your project
