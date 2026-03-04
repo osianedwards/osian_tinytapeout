@@ -17,6 +17,8 @@ All input at 0, gives a 0 output, G being the only output that is 0. A-F is 1.
 
 Explain how to use your project
 
+Put all input to 0, to get an O or 0 digit.
+
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
